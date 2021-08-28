@@ -1,0 +1,39 @@
+body{
+	padding: 5%;
+	text-align: center;
+	font-family: Arial;
+
+
+}
+
+img{ 
+	width: 200px;
+	height: 200px;
+	border-radius: 5%
+	margin: 5%;
+
+}
+
+div{
+	padding-top: 3%;
+
+}
+
+H1{
+
+	border: 5px dotted red;
+	padding: 10px;
+}
+
+.image1{
+	height: 230px;
+
+
+}
+
+.image2{
+	width: 220px;
+
+
+
+}
